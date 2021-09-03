@@ -1,0 +1,19 @@
+{
+  "name": "hanpanic.com",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "authors": {
+    "name": "Jiwon Park",
+    "email": "park@jiwon.me"
+  },
+  "repository": "https://github.com/jiwonMe/hanpanic.com/hanpanic.com",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
